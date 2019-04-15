@@ -1,6 +1,21 @@
+Idea 1
+An instrument utilizing sensors of arduino
+
 Summary
-Using arduino, I would like to create an instrument, which in essence works like a piano. I’d imagine this will work well with buttons that come with arduino kit or create a new way of playing it using other features of it. 
+Using arduino, I would like to create an instrument, which in essence works like a piano. I’d imagine this will work well with buttons that come with arduino kit or create a new way of playing it using other features of it. What would be nice is to have a way of playing sound without actually touching anything at all. One can play music just by moving their hand in mid air. 
 
 Component Parts
-Inputs: button, motion sensor
+Inputs: button, motion sensor (camera)
 Output: sound, light, display on screen?
+
+
+
+Idea 2
+An arduino remote control car
+
+Summary
+There are toy cars made from arduino and one that I want to make is something you can control using motion and gesture. There can be a controller that is a  wearable and as you move your body in a certain way it controls where the car is going and its speed.
+
+Component Parts
+Input: Motion sensor
+Output: motor
