@@ -1,0 +1,6 @@
+Summary
+Using arduino, I would like to create an instrument, which in essence works like a piano. I’d imagine this will work well with buttons that come with arduino kit or create a new way of playing it using other features of it. 
+
+Component Parts
+Inputs: button, motion sensor
+Output: sound, light, display on screen?
